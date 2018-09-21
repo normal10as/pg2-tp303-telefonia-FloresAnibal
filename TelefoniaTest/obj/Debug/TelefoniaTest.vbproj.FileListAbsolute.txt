@@ -1,0 +1,12 @@
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\2018\Telefonia\TelefoniaTest\bin\Debug\TelefoniaTest.pdb
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\2018\Telefonia\TelefoniaTest\bin\Debug\TelefoniaTest.xml
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\2018\Telefonia\TelefoniaTest\bin\Debug\TelefoniaEntidades.dll
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\2018\Telefonia\TelefoniaTest\bin\Debug\TelefoniaEntidades.pdb
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\2018\Telefonia\TelefoniaTest\bin\Debug\TelefoniaEntidades.xml
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\2018\Telefonia\TelefoniaTest\obj\Debug\TelefoniaTest.vbprojResolveAssemblyReference.cache
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\2018\Telefonia\TelefoniaTest\obj\Debug\TelefoniaTest.Resources.resources
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\2018\Telefonia\TelefoniaTest\obj\Debug\TelefoniaTest.vbproj.GenerateResource.Cache
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\2018\Telefonia\TelefoniaTest\obj\Debug\TelefoniaTest.xml
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\2018\Telefonia\TelefoniaTest\obj\Debug\TelefoniaTest.pdb
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\2018\Telefonia\TelefoniaTest\bin\Debug\TelefoniaTest.exe
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\2018\Telefonia\TelefoniaTest\obj\Debug\TelefoniaTest.exe
