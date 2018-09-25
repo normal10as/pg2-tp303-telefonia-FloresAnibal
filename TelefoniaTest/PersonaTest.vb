@@ -2,7 +2,7 @@
 Module PersonaTest
     Sub Main()
 
-        Dim persona_1 As New Persona("Gonzales", "Ramon", 12345678)
+        Dim persona_1 As New Persona(121212, "Gonzales", "Ramon", 12345678)
         persona_1.Cuenta = 12345
 
         Console.WriteLine("Nombre: " & persona_1.Nombre)

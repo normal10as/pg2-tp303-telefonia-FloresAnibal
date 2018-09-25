@@ -7,7 +7,8 @@
 
 
     'constructor
-    Sub New(apellido As String, nombre As String, documento As UInteger)
+    Sub New(cuenta As UInteger, apellido As String, nombre As String, documento As UInteger)
+        MyBase.New(cuenta)
         Me.Apellido = apellido
         Me.Nombre = nombre
         Me.Documento = documento

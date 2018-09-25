@@ -7,7 +7,8 @@
 
 
     'constructor
-    Sub New(razonSocial As String, cuit As String)
+    Sub New(cuenta As UInteger, razonSocial As String, cuit As String)
+        MyBase.New(cuenta)
         Me.RazonSocial = razonSocial
         Me.Cuit = cuit
     End Sub

@@ -43,7 +43,7 @@
     <OptionInfer>On</OptionInfer>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>TelefoniaTest.DatoTest</StartupObject>
+    <StartupObject>TelefoniaTest.LineaTest</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

@@ -1,7 +1,7 @@
 ﻿Imports TelefoniaEntidades
 Module EmpresaTest
     Sub Main()
-        Dim empresa_1 As New Empresa("Guillermo S.A.", "12-12345678-0")
+        Dim empresa_1 As New Empresa(121212, "Guillermo S.A.", "12-12345678-0")
         empresa_1.Cuenta = 54321
 
         Console.WriteLine("Razon Social: " & empresa_1.RazonSocial)
